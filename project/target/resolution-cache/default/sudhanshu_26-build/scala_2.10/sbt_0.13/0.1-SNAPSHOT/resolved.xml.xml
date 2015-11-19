@@ -4,7 +4,7 @@
 		module="sudhanshu_26-build"
 		revision="0.1-SNAPSHOT"
 		status="integration"
-		publication="20151117234836"
+		publication="20151119233602"
 		e:sbtVersion="0.13" e:scalaVersion="2.10"
 	>
 		<description>

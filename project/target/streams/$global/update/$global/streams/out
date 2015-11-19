@@ -18308,7 +18308,7 @@
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-sbt#apply-macro;0.13.8!apply-macro.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang#jline;2.10.4!jline.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.fusesource.jansi#jansi;1.4!jansi.jar[0m
-[0m[[0mdebug[0m] [0m:: resolution report :: resolve 6695ms :: artifacts dl 184ms[0m
+[0m[[0mdebug[0m] [0m:: resolution report :: resolve 6891ms :: artifacts dl 119ms[0m
 [0m[[0mdebug[0m] [0m	report for default#sudhanshu_26-build;0.1-SNAPSHOT compile produced in /home/sudhanshu/IdeaProjects/Sudhanshu/Sudhanshu_26/project/target/resolution-cache/reports/default-sudhanshu_26-build-compile.xml[0m
 [0m[[0mdebug[0m] [0m	report for default#sudhanshu_26-build;0.1-SNAPSHOT runtime produced in /home/sudhanshu/IdeaProjects/Sudhanshu/Sudhanshu_26/project/target/resolution-cache/reports/default-sudhanshu_26-build-runtime.xml[0m
 [0m[[0mdebug[0m] [0m	report for default#sudhanshu_26-build;0.1-SNAPSHOT test produced in /home/sudhanshu/IdeaProjects/Sudhanshu/Sudhanshu_26/project/target/resolution-cache/reports/default-sudhanshu_26-build-test.xml[0m
@@ -18322,5 +18322,5 @@
 [0m[[0mdebug[0m] [0m	report for default#sudhanshu_26-build;0.1-SNAPSHOT docs produced in /home/sudhanshu/IdeaProjects/Sudhanshu/Sudhanshu_26/project/target/resolution-cache/reports/default-sudhanshu_26-build-docs.xml[0m
 [0m[[0mdebug[0m] [0m	report for default#sudhanshu_26-build;0.1-SNAPSHOT pom produced in /home/sudhanshu/IdeaProjects/Sudhanshu/Sudhanshu_26/project/target/resolution-cache/reports/default-sudhanshu_26-build-pom.xml[0m
 [0m[[0mdebug[0m] [0m	report for default#sudhanshu_26-build;0.1-SNAPSHOT scala-tool produced in /home/sudhanshu/IdeaProjects/Sudhanshu/Sudhanshu_26/project/target/resolution-cache/reports/default-sudhanshu_26-build-scala-tool.xml[0m
-[0m[[0mdebug[0m] [0m	resolve done (6695ms resolve - 184ms download)[0m
+[0m[[0mdebug[0m] [0m	resolve done (6891ms resolve - 119ms download)[0m
 [0m[[0minfo[0m] [0mDone updating.[0m
